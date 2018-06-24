@@ -1,0 +1,22 @@
+{
+  "name": "api-restful",
+  "version": "0.0.1",
+  "description": "App base para web-service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "restul"
+  ],
+  "author": "Guilherme Cardoso de Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.1.6",
+    "validator": "^10.4.0"
+  }
+}
